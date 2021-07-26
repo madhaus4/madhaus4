@@ -1,5 +1,6 @@
-### Hi there 👋
+### hey hey. Welcome to my GitHub stash
 
+#### My name is Maria(she/her).  I am a Front End Developer currently studying at Turing School of Software & Design.  
 <!--
 **madhaus4/madhaus4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
