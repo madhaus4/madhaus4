@@ -1,4 +1,4 @@
-### hey hey. Welcome to my GitHub stash
+# hey hey. Welcome to my GitHub!
 
 #### My name is Maria(she/her).  I am a Front End Developer currently studying at Turing School of Software & Design.  
 <!--
