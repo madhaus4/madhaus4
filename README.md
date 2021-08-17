@@ -3,10 +3,11 @@
 # hey hey 👋   welcome to my GH!
 ### My name is Maria (she/her).   I am a Front End Developer currently studying at Turing School of Software & Design.  
 ### 
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhaus4&layout=compact&theme=flag-india)](https://github.com/anuraghazra/github-readme-stats" /></div>
+<br>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhaus4&layout=compact&theme=flag-india")("https://github.com/anuraghazra/github-readme-stats") /></div>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=madhaus4&hide=contribs,prs&theme=flag-india&show_icons=true" /></div>
+<br>
 
 Here are some ideas to get you started:
 
