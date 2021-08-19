@@ -1,16 +1,19 @@
 ![Copy of Copy of Untitled (2)](https://user-images.githubusercontent.com/76507607/130002837-03606627-47f1-4515-b7d8-856d0643a2eb.gif)
 
-# hey hey 👋   welcome to my GH!
-### My name is Maria (she/her).   I am a Front End Developer currently studying at Turing School of Software & Design.  
-### 
+### hey hey 👋   welcome to my GH!
+<div>My name is Maria (she/her).   I am a Front End Developer currently studying at Turing School of Software & Design.  I'm currently learning react!</div>
+ 
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhaus4&layout=compact&theme=vue" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhaus4&layout=compact&theme=vue" />  
+  <img src="https://github-readme-stats.vercel.app/api?username=madhaus4&hide=contribs,prs&theme=vue&show_icons=true" /></div>
+<br>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=madhaus4&hide=contribs,prs&theme=vue&show_icons=true" /></div>
-<br>
+<div align="center">I love boxing 🥊 & I love pets 🐱</div>
+
+<div align="center">Let's grab coffee &collab!</div>
+
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
