@@ -1,12 +1,12 @@
-![Copy of Copy of Untitled (1)](https://user-images.githubusercontent.com/76507607/129668832-92fa43e3-cf91-46bd-9974-84600cd32dee.gif)
+![Copy of Copy of Untitled (2)](https://user-images.githubusercontent.com/76507607/130002837-03606627-47f1-4515-b7d8-856d0643a2eb.gif)
 
 # hey hey 👋   welcome to my GH!
 ### My name is Maria (she/her).   I am a Front End Developer currently studying at Turing School of Software & Design.  
 ### 
 <br>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhaus4&layout=compact&theme=flag-india")("https://github.com/anuraghazra/github-readme-stats") /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhaus4&layout=compact&theme=vue" /></div>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=madhaus4&hide=contribs,prs&theme=flag-india&show_icons=true" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=madhaus4&hide=contribs,prs&theme=vue&show_icons=true" /></div>
 <br>
 
 Here are some ideas to get you started:
