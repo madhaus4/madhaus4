@@ -7,7 +7,7 @@
 
 <br>
 <h2>:computer: Technologies</h2>
-<p>JavaScript ||  React || ES6 || HTML/HTML5 || CSS/SCSS || Mocha&Chai || Webpack</p>
+<p>JavaScript |  React | ES6 | HTML5 | CSS/SCSS | Mocha&Chai | UI/UX</p>
 
 
 <br>
