@@ -1,9 +1,9 @@
 ![Copy of green background](https://user-images.githubusercontent.com/76507607/130499888-e8deec30-b4cd-44eb-b8a2-f01198990de8.gif)
 
 
-<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> hey humans! </h1>
+<h1><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey Humans! </h1>
 
-<div>My name is Maria (she/her).   I am a Front End Developer currently studying at Turing School of Software & Design.</div>
+<div>My name is Maria (she/her).   I am a Front End Developer currently studying at Turing School of Software & Design. </div>
 
 <br>
 <h2>:computer: Technologies</h2>
