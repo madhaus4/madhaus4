@@ -20,11 +20,14 @@
 <br>
 <h2>:small_orange_diamond: Preview My Work</h2> 
 <div align="center">
+  <a href="https://github.com/madhaus4/project-HTRAE">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madhaus4&repo=project-HTRAE&theme=slateorange" />
+  </a>
    <a href="https://github.com/madhaus4/the-film-vault">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madhaus4&repo=the-film-vault&theme=slateorange" />
   </a>
-  <a href="https://github.com/madhaus4/travel-tracker">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madhaus4&repo=travel-tracker&theme=slateorange" />
+  <a href="https://github.com/madhaus4/spacex-stretch">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=madhaus4&repo=spacex-stretch&theme=slateorange" />
   </a>
 </div>
 
