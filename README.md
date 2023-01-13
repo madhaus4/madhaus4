@@ -3,19 +3,12 @@
 
 <h1> Hey Humans! </h1>
 
-<div>My name is Maria (she/her).   I am a Front End Developer currently studying at Turing School of Software & Design. </div>
+<div>I'm Maria (she/her).  I studied Front End Development at Turing School of Software & Design. Currently, I work as a Full Stack Engineer. </div>
 
 <br>
 <h2>:computer: Technologies</h2>
-<p>JavaScript |  React | ES6 | HTML5 | CSS/SCSS | Mocha&Chai | UI/UX</p>
+<p>JavaScript |  React | ES6 | HTML5 | CSS/SCSS | Mocha&Chai | React Testing Library | Jest|  UI/UX | Node.js | Express | PostgreSQL | Docker  </p>
 
-
-<br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhaus4&layout=compact&theme=slateorange" />  
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=madhaus4&hide=contribs,prs&theme=slateorange&show_icons=true" />
-</div>
 
 <br>
 <h2>:small_orange_diamond: Preview My Work</h2> 
